@@ -1,9 +1,16 @@
-# 📩 Spam Detection System using Naive Bayes
+# 📩 Spam Detection System
+
+[![Streamlit App](https://img.shields.io/badge/Deployed%20on-Streamlit-brightgreen?logo=streamlit)](https://share.streamlit.io/)  
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python)](https://www.python.org/)  
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 This project is a **Spam Detection System** built with **Python** and **Machine Learning**, capable of classifying messages as **Spam** or **Ham (Non-Spam)**.  
 It uses **TF-IDF vectorization** with a **Multinomial Naive Bayes** model — achieving an impressive **Precision Score of 1.00** 🎯.
 
 ---
+
+## 🚀 **Live Demo**
+🔗 [**Click here to try the app on Streamlit Cloud**] https://zubii07-spam-detection-app-2on5wq.streamlit.app/
 
 ## 🚀 Project Overview
 
@@ -67,3 +74,21 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
+---
+
+## 🧑‍💻 **Author**
+
+**M Zohaib**
+
+If you like this project, consider giving it a ⭐ on GitHub — it helps others find it!
+
+---
+
+## ⚖️ **License**
+
+This project is open source and available under the [MIT License](LICENSE).
+
+
+---
+```
